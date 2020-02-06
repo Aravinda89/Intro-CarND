@@ -1,2 +1,2 @@
-# Intro-to-Self-Driving-Car
+# Intro CarND
 Introduction to CarND
